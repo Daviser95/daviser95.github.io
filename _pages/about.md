@@ -28,3 +28,5 @@ My work often combines multiple modeling approaches to develop innovative framew
 - Conservation Planning
 - Protected Areas
 - Spatial Ecology
+
+![Word cloud of research keywords](/images/wordcloud_1.png){: .align-center}
