@@ -1,5 +1,5 @@
 ---
-title: "Challenging Conservation: Adattarsi al cambiamento"
+title: "Modelling the Eurasian beaver range expansion in Europe: uneven future trends and possible conservation issues."
 collection: talks
 type: "Conference"
 permalink: /talks/2023-03-19-challenging-conservation
