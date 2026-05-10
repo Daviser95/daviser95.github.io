@@ -5,7 +5,7 @@ var addressPoints = [
     11.3426327
   ],
   [
-    "Rewilding in Italia: stato dell'arte e prospettive future<br />Gioia dei Marsi; Gioia dei Marsi (AQ), Italy",
+    "Don\u2019t stop it now: structural and functional habitat connectivity assessment for an expanding species, the Eurasian Beaver<br />Gioia dei Marsi; Gioia dei Marsi (AQ), Italy",
     41.922989,
     13.7200309
   ],
