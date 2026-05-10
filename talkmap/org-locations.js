@@ -35,7 +35,7 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Macroecology & Biogeography Meeting 2023<br />Bayreuth University; Bayreuth, Germany",
+    "A Continental-scale modelling approach for the Eurasian beaver expansion: biogeographic perspectives and management issues<br />Bayreuth University; Bayreuth, Germany",
     49.9446345,
     11.5743543
   ]
