@@ -15,7 +15,7 @@ var addressPoints = [
     14.595614
   ],
   [
-    "Challenging Conservation: Adattarsi al cambiamento<br />BioParco di Roma; Rome, Italy",
+    "Modelling the Eurasian beaver range expansion in Europe: uneven future trends and possible conservation issues.<br />BioParco di Roma; Rome, Italy",
     41.8933203,
     12.4829321
   ],
