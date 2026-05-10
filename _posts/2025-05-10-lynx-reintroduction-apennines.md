@@ -10,7 +10,6 @@ tags:
   - conservation
 header:
   teaser: "images/lynx-eurasian.jpg"
-  overlay_image: "images/lynx-eurasian.jpg"
 ---
 
 La reintroduzione dei grandi carnivori è oggi uno degli strumenti di intervento principali per ripristinare gli ecosistemi naturali. Predatori come la lince contribuiscono infatti a mantenere l'equilibrio delle comunità animali regolando le popolazioni di prede. Tuttavia, pianificare il ritorno di una specie estinta localmente rimane complesso, motivo per cui la ricerca scientifica ha sviluppato strumenti di analisi sempre più avanzati per individuare le aree più adatte.
