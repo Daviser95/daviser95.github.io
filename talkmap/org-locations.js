@@ -20,14 +20,9 @@ var addressPoints = [
     12.4029962
   ],
   [
-    "2nd Conference for Early Career Researchers in Conservation Biology: Biodiversity and Global Changes \u2013 A Conservation Perspective<br />University of L'Aquila; L'Aquila, Italy",
+    "Coupling habitat modeling, functional connectivity, and individual-based models to assess the theoretical feasibility of Eurasian lynx reintroduction in the Apennines<br />University of L'Aquila; L'Aquila, Italy",
     42.1368853,
     13.610341
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
   ],
   [
     "A Continental-scale modelling approach for the Eurasian beaver expansion: biogeographic perspectives and management issues<br />Bayreuth University; Bayreuth, Germany",
