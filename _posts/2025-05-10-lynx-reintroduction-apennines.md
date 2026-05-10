@@ -1,6 +1,6 @@
 ---
 title: "Il possibile ritorno della lince negli Appennini / The possible return of the lynx to the Apennines"
-date: 2025-05-10
+date: 2026-05-10
 permalink: /posts/2025/05/lynx-reintroduction-apennines/
 tags:
   - lynx
