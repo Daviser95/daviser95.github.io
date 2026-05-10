@@ -5,12 +5,17 @@ var addressPoints = [
     11.3426327
   ],
   [
+    "Don\u2019t stop it now: structural and functional habitat connectivity assessment for an expanding species, the Eurasian Beaver<br />Gioia dei Marsi; Gioia dei Marsi (AQ), Italy",
+    41.922989,
+    13.7200309
+  ],
+  [
     "Modelling the Eurasian beaver range expansion in Europe: uneven future trends and possible conservation issues.<br />BioParco di Roma; Rome, Italy",
     41.8933203,
     12.4829321
   ],
   [
-    "XV National Congress of the Societas Herpetologica Italica (SHI)<br />Perugia; Perugia, Italy",
+    "Integrating habitat suitability and functional connectivity to establish priority conservation sites for the genus Salamandrina<br />Perugia; Perugia, Italy",
     43.1070321,
     12.4029962
   ],
