@@ -1,18 +1,8 @@
 var addressPoints = [
   [
-    "7th European Congress of Conservation Biology: Biodiversity positive by 2030<br />Bologna; Bologna, Italy",
+    "A multispecies trait-based landscape connectivity assessment suggests establishing priorities for connectivity restoration in Europe<br />Bologna; Bologna, Italy",
     44.4938203,
     11.3426327
-  ],
-  [
-    "Don\u2019t stop it now: structural and functional habitat connectivity assessment for an expanding species, the Eurasian Beaver<br />Gioia dei Marsi; Gioia dei Marsi (AQ), Italy",
-    41.922989,
-    13.7200309
-  ],
-  [
-    "XIII Conference of the Italian Theriological Association (ATIt)<br />University of Molise; Molise, Italy",
-    41.684672,
-    14.595614
   ],
   [
     "Modelling the Eurasian beaver range expansion in Europe: uneven future trends and possible conservation issues.<br />BioParco di Roma; Rome, Italy",
