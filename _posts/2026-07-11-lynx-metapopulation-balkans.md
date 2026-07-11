@@ -31,7 +31,7 @@ The conservation implications are twofold. In the short term, the critical statu
 
 Once again, the study confirms that integrating multiple modelling tools — habitat suitability, landscape connectivity and population dynamics — provides more robust conservation priorities than relying on a single method, offering concrete guidance for future lynx conservation strategies across Europe.
 
-**\*\*Fonte / Source:\*\* \[Serva et al. (2025), \*Biological Conservation\*](https://doi.org/10.1016/j.biocon.2025.111381)**
+**Source:** [Serva et al. (2025), *Biological Conservation*](https://doi.org/10.1016/j.biocon.2025.111381)
 
 \---
 
@@ -54,6 +54,6 @@ Le implicazioni per la conservazione sono duplici. Nel breve periodo, lo stato c
 Ancora una volta, lo studio conferma come l'integrazione di più strumenti di modellazione — idoneità ambientale, connettività del paesaggio e dinamiche di popolazione — permetta di individuare priorità di conservazione più solide rispetto a un approccio basato su un singolo metodo, offrendo indicazioni concrete per orientare le future strategie di tutela della lince in Europa.
 
 
+**Fonte:** [Serva et al. (2025), *Biological Conservation*](https://doi.org/10.1016/j.biocon.2025.111381)
 
-**\*\*Fonte / Source:\*\* \[Serva et al. (2025), \*Biological Conservation\*](https://doi.org/10.1016/j.biocon.2025.111381)**
 
